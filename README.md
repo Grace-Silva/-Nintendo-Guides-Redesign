@@ -6,6 +6,9 @@ Para terminar menciono por qué seleccioné este sitio... actualmente me encuent
 
 ##Tabla de Contenidos.
 1.[Introducción](#introducción)
+2.[Propósito](#proposito)
+3.[Justificación](#justificacion)
+4.[Tecnologías](#tecnologias)
 
 ### Introducción.
 ***
@@ -16,6 +19,14 @@ Las guías de videojuegos surgen ante la necesidad de "desatascarnos" de una par
 ***
 Como lo mencioné inicialmente me encuentro en un programa de formación denominado "Fundamentos de Programación con énfasis en la Web - Modulo UI/UX Design", el cual me ha permitido comprender el funcionamiento e importancia de los sitios web en la economía de muchos sectores y de cómo la disposición de sus elementos e interactividad afecta directamente la percepción del usuario.
 
-Por lo anteriormente mencionado y por razones de autoaprendizaje tomé este sitio web como objeto de análisis para desarrollar un prototipo con técnicas y elementos adecuados que mejoren la experiencia de usuario. Como razón adicional estoy segura que la construcción de este proyecto contribuirá a mi crecimiento personal y profesional en el campo del diseño y desarrollo web.
+Por lo anteriormente mencionado y por razones de autoaprendizaje tomé este sitio web como objeto de análisis para desarrollar un prototipo con técnicas y elementos adecuados que mejoren la experiencia de usuario.
+Como razón adicional estoy segura que la construcción de este proyecto contribuirá a mi crecimiento personal y profesional en el campo del diseño y desarrollo web.
+El estado actual del proyecto es en Desarrollo.
+
+### Justificación.
+***
+El ecosistema web periódicamente presenta grandes cambios y por ende los usuarios esperarán encontrar las mejoras y herramientas nuevas que estén en auge. En este sentido habrá etiquetas y atributos que no es recomendable usar, un ejemplo de ello es la etiqueta <font>,usada para insertar la fuente dentro de html y que actualmente se hace desde css, o el atributo "vlink" que indicaba el color para un enlace de texto. Como html y css son lenguajes que permiten dar funcionamiento y usabilidad a un sitio web es apropiado usar etiquetas y reglas que los navegadores interperten de manera óptima.
+El sitio de estudio presenta inconvenientes en su carga y visualización, ya que hace uso de reglas que actualmente están descontinuadas y esto también incluye malas práticas, a continuación algunas capturas de pantalla.
+ ![image] ()
 
 Grace Silva.
