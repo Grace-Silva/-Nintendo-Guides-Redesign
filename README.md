@@ -6,10 +6,10 @@ Para terminar menciono por qué seleccioné este sitio... actualmente me encuent
 
 ## Tabla de Contenidos.
 1. [Introducción](#introducción)
-2. [Propósito](#proposito)
-3. [Justificación](#justificacion)
-4. [Estado Original](#original)
-5. [Tecnologías](#tecnologias)
+2. [Propósito](#propósito)
+3. [Justificación](#justificación)
+4. [Estado Original](#estadooriginal)
+5. [Tecnologías](#tecnologías)
 
 ### Introducción
 ***
