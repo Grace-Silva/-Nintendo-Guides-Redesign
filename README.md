@@ -36,7 +36,7 @@ El sitio de estudio presenta inconvenientes en su carga y visualización, ya que
  ### Tecnologías
  ***
  Para el desarrollo de este proyecto estaré utilizando herramientas de diseño y codificación de sitios web como:
- * Figma - Diseño de Vsitas y Prototipos Digitales.
+ * Figma - Diseño de Vistas y Prototipos Digitales.
  * Mozilla Firefox Developer Edition en su apartado de herramientas para desarrolladores
  * Adobe PhotoShop - Retoque y edición de imágenes
  * Lenguajes: HTML, CSS, JavaScript
