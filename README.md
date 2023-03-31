@@ -8,7 +8,7 @@ Para terminar menciono por qué seleccioné este sitio... actualmente me encuent
 1. [Introducción](#introducción)
 2. [Propósito](#propósito)
 3. [Justificación](#justificación)
-4. [Estado Original](#estadooriginal)
+4. [Estado Original](#estado-original)
 5. [Tecnologías](#tecnologías)
 
 ### Introducción
